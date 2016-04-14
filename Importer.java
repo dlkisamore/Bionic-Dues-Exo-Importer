@@ -10,6 +10,7 @@ Further development needs to be done on the following:
 	Testing assault and brawler exos.
 	Testing multiples of exos.
 	More detailed error messages when exceptions are thrown.
+Jonathan Was Here
 */
 
 import java.util.*;
